@@ -1,2 +1,2 @@
-# Practica 3-1
- Proyecto MVC de prueba
+# prueba_mvc_3
+ Proyecto de prueba para mvc
